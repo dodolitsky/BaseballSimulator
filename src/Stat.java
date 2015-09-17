@@ -1,0 +1,14 @@
+
+public enum Stat {
+	AT_BATS,
+	RUNS,
+	HITS,
+	RBIS,
+	WALKS,
+	DOUBLES,
+	TRIPLES,
+	HOMERUNS,
+	STEALS,
+	CAUGHT_STEALINGS,
+	HBPS
+}
